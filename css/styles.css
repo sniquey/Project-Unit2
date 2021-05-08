@@ -263,5 +263,18 @@ MEDIA QUERIES
     .description {
        padding-top: 10px;
     }
+
+    .main-nav {
+        display: flex;
+        flex-direction: row; 
+        align-items: flex-end;
+    }
+    
+    h1 {
+        flex: 1;
+        text-align: left;
+        margin-left: 45px;
+        font-size: 1.5em;
+    }
     
 }
