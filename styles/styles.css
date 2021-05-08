@@ -161,6 +161,10 @@ CLASS STYLES
 MEDIA QUERIES
 ==============================*/
 @media (min-width: 768px) {
+    h2 {
+        font-size: 1em;
+    }
+    
     .back-to-top {
         display: none;
     }
@@ -207,6 +211,21 @@ MEDIA QUERIES
     }
     .about {
         height: 200px;
+    }
+
+    .main-content {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    .travel,
+    .search,
+    .marketing,
+    .map,
+    .photo,
+    .calc {
+        width: 300px;
     }
  
 }
