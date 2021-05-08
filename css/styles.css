@@ -236,6 +236,12 @@ MEDIA QUERIES
     .calc {
         width: 285px;
     }
+
+    .contact-text {
+        width: 450px;
+        margin: auto;
+    
+    }
  
 }
 
