@@ -234,13 +234,17 @@ MEDIA QUERIES
     .map,
     .photo,
     .calc {
-        width: 285px;
+        width: 350px;
     }
 
     .contact-text {
         width: 450px;
         margin: auto;
-    
+    }
+
+    .description {
+        width: 250px;
+        margin: auto;
     }
  
 }
