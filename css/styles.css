@@ -95,6 +95,12 @@ CLASS STYLES
     margin-bottom: 10px;
 }
 
+.contact-text {
+    margin-left: 15px;
+    margin-right: 15px;
+
+}
+
 .email a {
     text-transform: lowercase;
     display: inline-block;
@@ -204,15 +210,16 @@ MEDIA QUERIES
     }
     .blurb {
         text-align: left;
+        margin-left: 20px;
     } 
     .profile-img {
-        width: 300px;
+        width: 350px;
         float: right;
         padding: 30px;
-
+        margin-right: 20px;
     }
     .about {
-        height: 200px;
+        height: 250px;
     }
 
     .main-content {
