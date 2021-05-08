@@ -259,5 +259,9 @@ MEDIA QUERIES
     .calc {
         width: 270px;
     }
+
+    .description {
+       padding-top: 10px;
+    }
     
 }
