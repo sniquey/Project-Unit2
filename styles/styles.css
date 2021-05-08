@@ -225,11 +225,20 @@ MEDIA QUERIES
     .map,
     .photo,
     .calc {
-        width: 300px;
+        width: 285px;
     }
  
 }
 
 @media (min-width: 1024px) {
+
+    .travel,
+    .search,
+    .marketing,
+    .map,
+    .photo,
+    .calc {
+        width: 270px;
+    }
     
 }
