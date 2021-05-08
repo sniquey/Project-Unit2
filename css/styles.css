@@ -21,16 +21,6 @@ header {
     padding-bottom: 10px;
 }
 
-.about {
-    background-color: #fafafa; 
-}
-
-.container {
-    width: 90%;
-    margin: -21px auto;
-    padding: 20px 20px 0 20px;
-}
-
 img {
     max-width: 100%;
 }
@@ -82,6 +72,18 @@ span {
 /*===========================
 CLASS STYLES
 ==============================*/
+
+
+.container {
+    width: 90%;
+    margin: -21px auto;
+    padding: 20px 20px 0 20px;
+}
+
+.about {
+    background-color: #fafafa; 
+}
+
 .profile-img {
     display: block;
     margin: auto;
