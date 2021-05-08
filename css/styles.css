@@ -123,16 +123,17 @@ CLASS STYLES
     text-align: left;
     padding-left: 20px;
     margin: auto;
-    font-size: 20px;
+    font-size: 14px;
     margin-top: 35px;
 }
 
 .back-to-top a {
-    font-size: 20px;
+    font-size: 14px;
     margin: auto;
     padding: 0;
     margin-right: 20px;
     text-decoration: none;
+    color: black;
 }
 
 .email {
